@@ -1,0 +1,77 @@
+.dashboard-container{
+    margin:10px;
+      display:flex;
+    
+     
+      justify-content: space-between;
+     
+  }
+  .dashboard-container1{
+      padding:20px;
+    
+      font-family: Arial, Helvetica, sans-serif;
+  
+  }
+  .card1{
+      background-color: #fff;
+   
+      width:30vh;
+      display:flex;
+     justify-content: space-between;
+      box-shadow: 5px 5px 5px  #d0cdcd;
+      border-radius: 10px;
+      padding:10px;
+  }
+  .inner-icon{
+      background-color: rgb(47, 98, 218);
+      height:40px;
+      width:40px;
+      border-radius:10px;
+  }
+  .icon1{
+      font-size:30px;
+      color:#fff;
+      padding:3px;
+  }
+  .icon-content{
+      display:flex;
+      flex-direction:column;
+      margin-right:25%;
+  }
+  .percentage{
+      background-color: rgb(184, 238, 220);
+      height:15px;
+      padding-top: 2px;
+      font-size: 10px;
+      color:#258b4a;
+      margin-top: 17px;
+      font-weight:600;
+      border:2px solid #8ef0b7;
+      border-radius:7px;
+  
+  }
+  
+  .negative{
+      background-color: rgb(248, 184, 192);
+      height:15px;
+     
+      font-size: 10px;
+      color:#ef1a96;
+      margin-top: 17px;
+      font-weight:600;
+      border:none;
+     padding:2.5px;
+      border-radius:7px;
+  
+  }
+  
+  .icon-amount{
+      font-weight: 700;
+      font-size:20px;
+  }
+  .icon-header{
+      font-size: 13px;
+      font-weight:400;
+      color:rgb(102, 108, 108);
+  
+  }

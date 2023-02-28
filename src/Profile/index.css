@@ -1,0 +1,189 @@
+.profile-container{
+
+    display: flex;
+   width:100%;
+    flex-direction: column;
+     
+     
+  }
+  .icons-container{
+      display:flex;
+      gap:10px;
+      padding:5px;
+      justify-content: space-evenly;
+  }
+  .profile-main-container{
+      
+      border-radius: 10px;
+      box-shadow: 2px 0px 5px  #656262;
+      background-color: #fff;;
+  
+  
+  }
+  .profile-mini-block{
+      height:15vh;
+      background-color: #4460eb;
+      border-radius: 10px   10px 0px 0px ;
+      position: relative;
+  
+  }
+  .icon4{
+      display:flex;
+      color:#fff;
+      padding:5px;
+      justify-content:flex-end;
+  }
+  .profile-pic-container{
+      height:60px;
+      width:60px;
+      border-radius: 30px;
+      border:2px solid #f8f8f8;
+      position: absolute;
+     
+      top:16%;
+  }
+  .profile-section{
+      display:flex;
+      justify-content: center;
+  }
+  .profile-details{
+  display:flex;
+  margin-top:5%;
+  padding:20px;
+  flex-direction: column;
+  
+  }
+  
+  .profile-name{
+      font-size:18px;
+      font-weight: 600;
+  }
+  .profile-designation{
+      color:#7f7e7e;
+      font-size:14px;
+      text-align: center;
+  }
+  .profile-details-followers{
+      padding:10px;
+      display:flex;
+      justify-content:space-evenly;
+  }
+  .profile-details-prod{
+      display:flex;
+      flex-direction:column;
+  }
+  .vertical1{
+      height:6%;
+  }
+  .horizontal{
+      width:90%;
+     border:1px solid #e5e4e4;
+  
+  }
+  .profile-pic{
+    height:60px;
+    width:60px;
+    border-radius: 30px;
+  }
+  .profile-pic1{
+    height:20px;
+    width:20px;
+    border-radius: 10px;
+
+  }
+  .profile-pic2{
+    height:17px;
+    width:20px;
+
+
+  }
+  .profile-icon-s{
+    font-size:20px;
+  }
+  .notification{
+    position: absolute;
+    background-color: #ff6464;
+   
+    
+   font-size: 10px;
+   border-radius:8px;
+   padding:2px;
+   
+    top:3px;
+    right:12.5%;
+    color:#fff;
+  }
+  .progress-header{
+    display:flex;
+    justify-content: space-between;
+    padding:10px;
+  }
+  .progress-section{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items:center;
+    background-color: #f7f7f7;
+
+  }
+  .progress-bar{
+    height:150px;
+    width:200px;
+    
+   
+  }
+  .prgs{
+    border-radius: 50%;
+  }
+  .prog-amount{
+    font-weight: 450;
+    font-size:20px;
+
+  }
+  .prog-amount-str{
+    font-weight: 300;
+    font-size:14px;
+    color:#7f7e7e;
+
+  }
+  .prog-bottom-section{
+    display:flex;
+    gap:10px;
+ 
+  }
+  .prog-content{
+    font-size:15px;
+    color:#7f7e7e;
+  }
+  .date-activity{
+    background-color: #cecece;
+    height:45px;
+    width:40px;
+    border-radius: 10px;
+    padding:10px;
+    font-size:12px;
+    text-align: center;
+    font-weight: 600;
+
+  }
+  .activities{
+    display:flex;
+    justify-content: center;
+    gap:5px;
+    margin:5px;
+
+  }
+  .date-act-content{
+    font-size:14px;
+  }
+  .recent-acivities-cont{
+    margin:5px;
+  }
+  .read-more{
+    color:#4460eb;
+    font-weight: 600;
+  }
+  .rec-act-prog{
+    padding:10px;
+  }
+  

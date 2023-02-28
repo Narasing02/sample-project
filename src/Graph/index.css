@@ -1,0 +1,86 @@
+.graph-container{
+    border-radius: 10px;
+     display: flex;
+     flex-direction: column;
+     
+     background-color: #fff;
+     box-shadow:10px 0px 10px #cfcfcf;
+     padding:20px;
+     width:100%;
+   
+ }
+ .graph-content{
+     display:flex;
+   justify-content:space-between;
+ }
+ .content-container{
+     display: flex;
+     justify-content:space-around;
+ }
+ .graph-img{
+     height:300px;
+     width:550px;
+     
+ }
+ .content1-container{
+     padding:20px;
+ }
+ .inner-content{
+    
+     display: flex;
+     gap:20px;
+     justify-content:space-evenly;
+ }
+ .vertical{
+     height: 105px;
+     border-right: 1px solid #dde6e9;
+     margin-top:0px;
+     position:absolute;
+ 
+     
+ 
+ }
+ .horizontal{
+  color:#dde6e9;
+ }
+ 
+ 
+ .month-header{
+     font-weight:500;
+     color:#6b6969;
+     font-size: 15px;;
+ }
+ .month-sal{
+     font-weight:700;
+     font-size:20px;
+ }
+ .month-percent{
+     background-color: rgb(184, 238, 220);
+     color:#258b4a;
+     font-size:13px;
+     padding:1px;
+     border-radius:5px;
+     margin-left:10px;
+ 
+ }
+ .inner-content-header{
+     color:#6b6969;
+     font-size:17px;
+   
+ 
+ }
+ 
+ .inner-content-value{
+ 
+     font-size:20px;
+     font-weight:400;
+ }
+ 
+ .sortby{
+     font-weight:500;
+ }
+ .sort-by-option{
+     background-color: transparent;
+     border:none;
+     outline: none;
+ }

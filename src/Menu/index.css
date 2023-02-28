@@ -1,0 +1,180 @@
+.total_div{
+    background-color:#0e0e25;
+    
+    color: white;
+    border: none;
+  
+    padding-left: 20px;
+    width:17%;
+  
+ 
+    
+   
+}
+
+/* email */
+.cgMenu{
+    margin-left:90%;
+    cursor: pointer;
+}
+
+.background_color{
+    background-color: #00001a;
+    color: white;
+    border: none;
+}
+.inner_drop_down{
+    padding-left: 20px;
+    font-weight: bold;
+}
+.inner_drop_down2{
+    padding-left: 20px;
+    font-weight: 200;
+
+}
+.dashboard-icon_style{
+   
+    margin-left: 100px;
+    
+}
+.dashboard-icon_style1{
+   
+    margin-left: 80px;
+    background-color: aliceblue;
+    color: white;
+    
+}
+.calendar_div{
+    display: flex;
+    color:#343434;
+   
+    padding:10px;
+    
+   
+
+}
+.application{
+    font-size:15px;
+    color:#787777;
+}
+.chat-icon{
+    font-size:17px;
+}
+.calendar_div:hover{
+    color:#fff;
+
+}
+.calendar_div_icon{
+    font-size:17px;
+}
+.names{
+    padding-left: 10px;
+    font-size:15px;
+    font-weight: bold;
+    color:#787777;
+    cursor:pointer;
+}
+.names:hover{
+    color:#fff;
+}
+
+.select-chevron{
+    margin-left:90px;
+}
+.chev-email{
+    margin-left: 132px;
+}
+.chev-invoice{
+    margin-left: 113px;
+}
+.chev-projects{
+    margin-left: 114px;
+}
+.chev-contacts{
+    margin-left: 110px;
+}
+.authenticate{
+    display:flex;
+}
+.chev-utility{
+    margin-left: 130px;
+}
+.chev-ui{
+    margin-left: 90px;
+
+}
+.chev-form{
+    margin-left: 126px;
+
+}
+.menu-icon-chever{
+    margin-left:95%;
+   
+    cursor:pointer;
+    
+}
+.icons-cont-1{
+    display:flex;
+    flex-direction: column;
+    gap:20px;
+}
+.button-dashboard{
+    border:none;
+    background-color:transparent;
+    display:flex;
+}
+.button-dashboard:hover{
+    background-color:transparent;
+
+}
+.collapse-icon{
+    margin-left:130px;
+}
+
+.application_name{
+    font-size: 14px;
+    font-weight:200;
+    letter-spacing: 1px;
+}
+.menu-button-container{
+    display:flex;
+    flex-direction: column;
+}
+
+.span_8{
+    
+    height: 23px;
+    width: 26px;
+    border-radius: 17px;
+    background-color: aqua;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 70px;
+    
+    
+    
+}
+.hot_name{
+    color: red;
+    background-color:#330000;
+    text-align: center;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 136px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 10px;
+    height: 26px;
+    
+
+}
+.padd6{
+    margin-left:122px;
+}
+.padd7{
+    margin-left:84px;
+}
+.padd8{
+    margin-left: 125px;
+}

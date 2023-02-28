@@ -1,0 +1,128 @@
+.box1{
+    
+    width:100%;
+    padding:10px;
+    background-color: #fff;
+    box-shadow: 10px 0px 10px #c3c2c2;
+    border-radius:10px;
+    
+}
+
+.additional-container{
+    margin-top:10px;
+    display:flex;
+   width:100%;
+   gap:20px;
+    justify-content: space-evenly;
+
+}
+
+.card1-header{
+    display: flex;
+    justify-content: space-between;
+    padding:5px;
+}
+.card1-weekly{
+    background-color: transparent;
+    border:none;
+    outline: none;
+    font-size: 15px;
+    color:#9f9b9b;
+}
+.card1-weekly-header{
+    font-weight: 500;
+    font-size: 13px;
+}
+.weekly-graph-content{
+    display: flex;
+    justify-content: space-between;
+}
+.month-stat{
+    padding:10px;
+    display:flex;
+    gap:2px;
+    flex-direction: column;
+}
+.month-stat-header{
+    font-size: 14px;
+    color:#6e6e6e;
+
+}
+.month-stat-amount{
+    font-weight: 500;
+    font-size: 18px;
+
+}
+.current-header{
+    font-size:14px;
+}
+.card1-color{
+    height:15px;
+    width:15px;
+    border-radius: 7.5px;
+    background-color: #b84f4f;
+}
+.green-color{
+    background-color: #0cd86f;
+
+}
+.card1-color1{
+    display: flex;
+    gap:10px;
+}
+.order-container{
+    display:flex;
+    justify-content: space-between;
+}
+.order-stat-cont{
+    display: flex;
+    justify-content: space-evenly;
+    color:#6e6e6e;
+    font-size: 17px;
+}
+
+.month-stat-container{
+    height:20px;
+    width:20px;
+    padding:5px;
+    color:#fff;
+    font-weight: 500;
+    border-radius: 4px;
+    background-color: #4781e6;
+    font-size: 10px;
+}
+.product-stat-cont{
+    padding:4px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.product-last-container{
+    height:17px;
+    padding:3px;
+   font-size: 10px;
+    background-color: #d4d1d1;
+   
+    border-radius:5px;
+}
+
+.product-name-container{
+    padding:2px;
+    display:flex;
+    flex-direction: column;
+    margin-right:20%;
+}
+.product-name{
+    font-size: 13px;
+    color:#6e6e6e;
+
+}
+.product-amount{
+    font-weight: 700;
+    font-size: 13px;
+}
+.analysis-graph,.pie-graph{
+    width:250px;
+    height:200px;
+
+}
